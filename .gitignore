@@ -4,3 +4,4 @@ egg_panel_1
 # !data/masks/hsv/*.tif
 # !data/masks/lab/*.tif
 __pycache__
+venv
